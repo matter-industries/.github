@@ -5,7 +5,7 @@
 
 ## projects
 
-- [que](https://github.com/slapapps) - dedicated to making the internet a better place.
+- [que](https://github.com/que-industries) - dedicated to making the internet a better place.
 - [fabrik systems](https://github.com/fabriksys) - online tools that work through the fabrik environment.
 - [easy spirit](https://github.com/easyspirit) - simple organization tools that help in personal, work, and school lives.
 - [slapapps](https://github.com/slapapps) - little apps that do things.
